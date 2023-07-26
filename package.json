@@ -1,0 +1,17 @@
+{
+  "name": "js_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.2.0",
+    "brain.js": "^2.0.0-beta.18",
+    "csv-parser": "^3.0.0"
+  }
+}
